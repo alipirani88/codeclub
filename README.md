@@ -1,2 +1,4 @@
 # codecllub
-THis is a Code club repository
+This is the first ccommity to this repository.
+
+Minor changes...
